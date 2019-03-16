@@ -1,0 +1,10 @@
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\ProjectManager.Data.dll.config
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\ProjectManager.Data.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\ProjectManager.Data.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\EntityFramework.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\EntityFramework.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\obj\Debug\ProjectManager.Data.csprojResolveAssemblyReference.cache
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\obj\Debug\ProjectManager.Data.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\obj\Debug\ProjectManager.Data.pdb

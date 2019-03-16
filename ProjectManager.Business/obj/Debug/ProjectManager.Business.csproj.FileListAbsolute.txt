@@ -1,0 +1,17 @@
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\ProjectManager.Business.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\ProjectManager.Business.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\AutoMapper.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\ProjectManager.Data.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\System.ValueTuple.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\EntityFramework.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\ProjectManager.Data.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\ProjectManager.Data.dll.config
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\AutoMapper.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\AutoMapper.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\System.ValueTuple.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\EntityFramework.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\obj\Debug\ProjectManager.Business.csprojResolveAssemblyReference.cache
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\obj\Debug\ProjectManager.Business.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\obj\Debug\ProjectManager.Business.pdb

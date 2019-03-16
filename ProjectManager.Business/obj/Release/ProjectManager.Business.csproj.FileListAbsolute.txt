@@ -1,0 +1,17 @@
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Business.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Business.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\AutoMapper.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Data.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\System.ValueTuple.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\EntityFramework.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\EntityFramework.SqlServer.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Data.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\ProjectManager.Data.dll.config
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\AutoMapper.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\AutoMapper.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\System.ValueTuple.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\EntityFramework.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\bin\Release\EntityFramework.SqlServer.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\obj\Release\ProjectManager.Business.csprojResolveAssemblyReference.cache
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\obj\Release\ProjectManager.Business.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Business\obj\Release\ProjectManager.Business.pdb

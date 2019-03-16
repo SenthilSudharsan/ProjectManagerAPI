@@ -1,0 +1,10 @@
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\ProjectManager.Data.dll.config
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\ProjectManager.Data.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\ProjectManager.Data.pdb
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\EntityFramework.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\EntityFramework.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\obj\Release\ProjectManager.Data.csprojResolveAssemblyReference.cache
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\obj\Release\ProjectManager.Data.dll
+C:\Senthil\FSD\ProjectManagerAPI\ProjectManager.Data\obj\Release\ProjectManager.Data.pdb
